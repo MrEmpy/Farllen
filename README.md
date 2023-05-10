@@ -17,3 +17,9 @@ $ cd Farllen
 $ make
 $ ./farllen <INTERNAL IP> <INTERNAL PORT> <BIND PORT>
 ```
+
+## Buy me a coffee?
+
+<img src="https://static.livepix.gg/images/logo.svg" height="50" widght="50">
+
+[LivePix](https://livepix.gg/mrempy)
